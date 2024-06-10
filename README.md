@@ -46,3 +46,9 @@ The objective of this project is to efficiently and fairly distribute incoming u
 - Node -js
 - MongoDB
 - Docker
+
+## API endpoints
+- connectUSER(POST) ---> http://localhost:8086/api/connectUser
+- setTopAstrologer(POST) ---> http://localhost:8086/api/connectUser
+- createUSER(POST) ---> http://localhost:8086/api/createUser
+- createASTROLOGER(POST) ---> http://localhost:8086/api/createAstrologer
